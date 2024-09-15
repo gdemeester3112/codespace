@@ -162,3 +162,6 @@ img.socialIcon {
 .scroll-down-arrow {
   animation: bounce 2s infinite;
 }
+.education-section {
+  margin-top: 20px; 
+}
