@@ -137,3 +137,9 @@ img.socialIcon {
     opacity: 1;
   }
 }
+.profile-image {
+  height: 90%;
+  width: 100%;
+  object-fit: cover;
+  animation: 1s ease-out 0s 1 slideInLeft;
+}
